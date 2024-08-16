@@ -103,3 +103,10 @@ ul li span:hover{
     background: #edeef0;
 
 }
+.des{
+    margin-top: 300px;
+    text-align: center;
+    font-size: 16px;
+    font-family: cursive;
+    color: #fff;
+}
